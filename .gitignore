@@ -1,0 +1,10 @@
+node_modules/
+dist/
+server/projects/
+server/versions/
+server/library/
+server/runs/
+.env
+.env.*
+!.env.example
+.DS_Store
